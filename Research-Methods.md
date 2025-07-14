@@ -147,6 +147,8 @@ Before you trust a headline—or worse, share it with others—stop and run thro
 Don’t let a headline be the only thing you know. If something seems shocking, weird, or too good to be true, there’s a good chance there’s more to the story.
 Reading just a little deeper can save you from falling for (or spreading) bad information.
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 3: Spotting a Good Source (and a Bad One)
@@ -193,6 +195,8 @@ If you don’t know the answer to both questions, be careful about taking the in
 
 **Bottom line:**
 Choosing good sources is the foundation of good research. Don’t settle for the first thing you see—dig a little deeper and ask, “Who says so, and how do they know?”
+
+[`⬆️ Back to top`](#table-of-contents)
 
 ---
 
@@ -249,6 +253,8 @@ A scary “breaking news” story spreads on social media, but you notice the ar
 **Bottom line:**
 Fact-checking doesn’t have to be complicated. A few simple tricks—Ctrl+F, reverse image search, checking quotes, using Archive.org, and looking at the date—can help you avoid getting fooled and keep your friends and family better informed too.
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 5: Understanding Bias (and Not Just Theirs—Yours Too)
@@ -302,6 +308,8 @@ You’ll almost always notice differences in language and emphasis, even if the 
 
 **Bottom line:**
 Bias isn’t always about lying—it’s about perspective. When you know how to spot bias (including your own), you’ll make better, more informed decisions and see the bigger picture.
+
+[`⬆️ Back to top`](#table-of-contents)
 
 ---
 
@@ -367,6 +375,8 @@ Chances are, there’s a lot more to the story—or the results were exaggerated
 **Bottom line:**
 Not all studies are equal. By asking a few basic questions, you can spot real science and skip the hype.
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 7: Triangulation—Why One Source Is Never Enough
@@ -421,7 +431,9 @@ Never trust just one source. The more you double- (or triple-) check, the harder
 
 Here’s **Section 8**, made simple and practical for everyday use:
 
+[`⬆️ Back to top`](#table-of-contents)
 
+---
 
 ## Section 8: How to Search Like a Pro
 
@@ -480,6 +492,8 @@ A little know-how with search engines saves time and helps you find answers you 
 
 
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 9: Knowing When to Stop (and When Not to)
@@ -523,7 +537,9 @@ In these cases, it’s smart to:
 **Bottom line:**
 You don’t have to know everything. Being honest about what you know—and when you don’t—is a superpower. Sometimes, the wisest thing is to pause, or ask for help.
 
+[`⬆️ Back to top`](#table-of-contents)
 
+---
 
 Here’s **Section 10**, practical, down-to-earth, and scenario-based:
 
@@ -585,6 +601,8 @@ A little effort now saves a lot of regret later.
 **Bottom line:**
 Good research habits help you make smarter choices in every part of life—from what you eat, to how you vote, to where you spend your money.
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 11: Common Mistakes and How to Avoid Them
@@ -635,6 +653,8 @@ If something makes you feel a strong emotion, take a deep breath. Give yourself 
 We all make mistakes sometimes. The trick is to slow down, ask questions, and double-check—especially when something seems important, urgent, or too good (or bad) to be true.
 
 
+[`⬆️ Back to top`](#table-of-contents)
+
 ---
 
 ## Section 12: Final Tips and “Research Habits” Anyone Can Build
@@ -680,6 +700,8 @@ Share what you found with others (politely!), and help build a smarter, more inf
 **Bottom line:**
 A little curiosity, some basic tools, and healthy skepticism go a long way. Research is for everyone. The more you practice, the easier it gets—and the smarter your world becomes.
 
+
+[`⬆️ Back to top`](#table-of-contents)
 
 ---
 
@@ -733,7 +755,9 @@ Before you believe, share, or act on any information, run through these fast que
   [Wikipedia](https://www.wikipedia.org/) (use footnotes to trace sources!)
   [Google Scholar](https://scholar.google.com/) (find academic studies)
 
+[`⬆️ Back to top`](#table-of-contents)
 
+---
 ### **Simple Flowchart: “Is This Worth Believing/Sharing?”**
 
 ```mermaid
@@ -761,4 +785,8 @@ flowchart TD
 ```
 
 **Keep this cheat sheet handy. The more you use it, the faster and sharper your research skills will become!**
+---
+
+[`⬆️ Back to top`](#table-of-contents)
+
 
