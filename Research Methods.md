@@ -713,18 +713,29 @@ Before you believe, share, or act on any information, run through these fast que
 
 ### **Simple Flowchart: “Is This Worth Believing/Sharing?”**
 
-```Mermaid
+```mermaid
 flowchart TD
     A([Did I read past the headline?]) --> B([Do I know who wrote or published this?])
     B --> C([Is there a reliable source or original link?])
     C --> D([Have I checked the date?])
     D --> E([Did I find at least two other trustworthy sources?])
-    E --> F([Did I fact-check (for photos, quotes, stories)?])
-    F --> G([Am I calm and thinking clearly (not just reacting emotionally)?])
-    G -->|YES| H([Okay, it’s probably safe to believe or share.])
-    G -->|NO| I([Slow down. Double-check before you trust or share.])
-```
+    E --> F([Did I fact-check for photos, quotes, stories?])
+    F --> G([Am I calm and thinking clearly, not just reacting emotionally?])
+    G -- YES --> H([Okay, it's probably safe to believe or share.])
+    G -- NO --> I([Slow down. Double-check before you trust or share.])
 
+    %% Styling
+    classDef default fill:#102542,stroke:#102542,stroke-width:2px,color:#ffffff;
+    classDef decision fill:#fff59d,stroke:#fbc02d,stroke-width:2px,color:#212121;
+    classDef yes fill:#43a047,stroke:#1b5e20,stroke-width:2px,color:#ffffff;
+    classDef no fill:#e53935,stroke:#b71c1c,stroke-width:2px,color:#ffffff;
+
+    class G decision;
+    class H yes;
+    class I no;
+
+
+```
 
 **Keep this cheat sheet handy. The more you use it, the faster and sharper your research skills will become!**
 
