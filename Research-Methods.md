@@ -91,6 +91,9 @@ If you can apply these same skills to bigger questions—like news stories, medi
 * Start with questions, not answers.
 * Stay open-minded. If new information changes your mind, that’s a win, not a failure.
 
+[`⬆️ Back to top`](#table-of-contents)
+
+
 ---
 
 ## Section 2: How to Read Past the Headline
