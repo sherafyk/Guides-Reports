@@ -34,7 +34,7 @@ Let’s dig in and learn how to actually figure stuff out.
 - [Section 2: How to Read Past the Headline](#section-2-how-to-read-past-the-headline)
 - [Section 3: Spotting a Good Source (and a Bad One)](#section-3-spotting-a-good-source-and-a-bad-one)
 - [Section 4: Fact-Checking Basics—Quick Tools and Tricks](#section-4-fact-checking-basicsquick-tools-and-tricks)
-- [Section 5: Understanding Bias (and Not Just Theirs—Yours Too)](#section-5-understanding-bias-and-not-just-theirstheirs--yours-too)
+- [Section 5: Understanding Bias (and Not Just Theirs, Yours Too)](#section-5-understanding-bias-and-not-just-theirs,-yours-too)
 - [Section 6: The Anatomy of a Study—Is This Real Science?](#section-6-the-anatomy-of-a-studyis-this-real-science)
 - [Section 7: Triangulation—Why One Source Is Never Enough](#section-7-triangulationwhy-one-source-is-never-enough)
 - [Section 8: How to Search Like a Pro](#section-8-how-to-search-like-a-pro)
@@ -257,7 +257,7 @@ Fact-checking doesn’t have to be complicated. A few simple tricks—Ctrl+F, re
 
 ---
 
-## Section 5: Understanding Bias (and Not Just Theirs—Yours Too)
+## Section 5: Understanding Bias (and Not Just Theirs, Yours Too)
 
 When it comes to information, everyone’s got an angle—even you. That’s not always a bad thing, but it’s important to know how bias works and how it can sneak into the stories you read, the news you watch, and even your own thinking.
 
