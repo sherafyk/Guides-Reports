@@ -27,6 +27,26 @@ Let’s dig in and learn how to actually figure stuff out.
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Section 1: What Even *Is* “Research”?](#section-1-what-even-is-research)
+- [Section 2: How to Read Past the Headline](#section-2-how-to-read-past-the-headline)
+- [Section 3: Spotting a Good Source (and a Bad One)](#section-3-spotting-a-good-source-and-a-bad-one)
+- [Section 4: Fact-Checking Basics—Quick Tools and Tricks](#section-4-fact-checking-basicsquick-tools-and-tricks)
+- [Section 5: Understanding Bias (and Not Just Theirs—Yours Too)](#section-5-understanding-bias-and-not-just-theirstheirs--yours-too)
+- [Section 6: The Anatomy of a Study—Is This Real Science?](#section-6-the-anatomy-of-a-studyis-this-real-science)
+- [Section 7: Triangulation—Why One Source Is Never Enough](#section-7-triangulationwhy-one-source-is-never-enough)
+- [Section 8: How to Search Like a Pro](#section-8-how-to-search-like-a-pro)
+- [Section 9: Knowing When to Stop (and When Not to)](#section-9-knowing-when-to-stop-and-when-not-to)
+- [Section 10: Research in Real Life—Practical Scenarios](#section-10-research-in-real-lifepractical-scenarios)
+- [Section 11: Common Mistakes and How to Avoid Them](#section-11-common-mistakes-and-how-to-avoid-them)
+- [Section 12: Final Tips and “Research Habits” Anyone Can Build](#section-12-final-tips-and-research-habits-anyone-can-build)
+- [Appendix: Quick Reference Cheat Sheet](#appendix-quick-reference-cheat-sheet)
+
+
+---
+
 ## Section 1: What Even *Is* “Research”?
 
 Most people hear the word “research” and picture scientists in white coats or students hunched over thick textbooks. But research isn’t just for experts or academics—it’s something you already do in everyday life, whether you realize it or not.
