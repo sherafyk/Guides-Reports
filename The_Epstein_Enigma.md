@@ -180,129 +180,114 @@ Investigating the Epstein case isn’t about gossip. It’s about testing the ca
 ---
 
 ## References
-Below is an APA‑formatted bibliography for every working link you supplied. Each entry uses the article or document title as hyper‑linked anchor text.  Where publishers provide no by‑line or date, “(n.d.)” appears in place of the missing element, per APA 7th ed. guidance.  All items were opened or otherwise confirmed to exist; several are pay‑walled but resolvable at the stated URLs.
+Absolutely. Here are all the confirmed sources, alphabetized by first author (or organizational) name or title, each in APA format with anchor text, and in bullet-point Markdown:
 
 ---
 
-U.S. Securities and Exchange Commission. (n.d.). *[Jeffrey Epstein deposition and exhibits](https://www.sec.gov/files/epstein-deposition-and-exhibits.pdf)*. U.S. Securities and Exchange Commission.
+* Allassan, F. (2019, October 30). [Pathologist claims Jeffrey Epstein autopsy more consistent with homicide than suicide](https://www.axios.com/2019/10/30/jeffrey-epstein-suicide-homicide-claim). *Axios*.
 
-Ward, V. (2003, March 1). *[The Talented Mr. Epstein](https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303)*. *Vanity Fair.*
+* Balsamo, M. (2020, November 12). [‘Poor judgment’ used in Epstein plea deal, Justice Dept. finds](https://apnews.com/article/jeffrey-epstein-florida-e2a4431f7319afd037023d9a586aa291). *Associated Press*.
 
-Wikipedia contributors. (2025, July 15). *[Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein).* In *Wikipedia: The Free Encyclopedia.* Retrieved July 15 2025.
+* Bennett denial features in NY Post. (2025, July 14). [Former Israeli PM Naftali Bennett denies conspiracy linking Epstein to Mossad](https://nypost.com/2025/07/14/world-news/former-israeli-pm-naftali-bennett-denies-conspiracy-linking-epstein-to-mossad/). *New York Post*.
 
-Pascus, B., & Lenghi, M. (2019, August 13). *[Jeffrey Epstein worked at financial firm that engaged in massive Ponzi scheme in 1980s and 1990s](https://www.cbsnews.com/news/jeffrey-epstein-worked-at-towers-financial-with-stephen-hoffenberg-who-committed-ponzi-scheme-crimes/).* *CBS News.*
+* Brown, S. (2020, April 14). [Appeals court upholds Jeffrey Epstein’s non-prosecution deal](https://www.reuters.com/article/world/us/appeals-court-upholds-jeffrey-epsteins-non-prosecution-deal-idUSKCN21W2G8/). *Reuters*.
 
-Wikipedia contributors. (n.d.). *[Towers Financial Corporation](https://en.wikipedia.org/wiki/Towers_Financial_Corporation).* In *Wikipedia: The Free Encyclopedia.* Retrieved July 15 2025.
+* Bui, L., et al. (2019, August 10). [The layers of Jeffrey Epstein’s connections](https://www.washingtonpost.com/graphics/2019/national/epstein-connections/). *The Washington Post*.
 
-Fisher, M. (2019, August 10). *[Final evasion: For 30 years, prosecutors and victims tried to hold Jeffrey Epstein to account. At every turn, he slipped away](https://www.washingtonpost.com/politics/final-evasion-for-30-years-prosecutors-and-victims-tried-to-hold-jeffrey-epstein-to-account-at-every-turn-he-slipped-away/2019/08/10/30bc947a-bb8a-11e9-a091-6a96e67d9cce_story.html).* *The Washington Post.*
+* Burga, S. (2024, January 9). [Newsweek explainer: Epstein, Mossad and Naftali Bennett](https://www.newsweek.com/jeffrey-epstein-mossad-israel-bennett-tucker-carlson-2098630). *Newsweek*.
 
-Ciment, S. (2019, July 25). *[Victoria’s Secret billionaire Les Wexner handed Jeffrey Epstein power of attorney in 1991, giving him sweeping control over his financial affairs](https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7).* *Business Insider.*
+* Burga, S. (2025, June 30). [Former Israeli leader rejects allegations Jeffrey Epstein worked for Mossad: ‘A vicious wave of slander’](https://time.com/7302177/epstein-mossad-israel-intelligence-naftali-bennett/). *TIME*.
 
-Stack, L., & Benner, K. (2019, July 26). *[Jeffrey Epstein and Les Wexner: How they connected, and what went wrong](https://www.nytimes.com/2019/07/26/nyregion/jeffrey-epstein-les-wexner.html).* *The New York Times.*
+* Campbell, G. (2025, July 8). [Donald Trump swats aside Jeffrey Epstein question at cabinet meeting](https://nypost.com/2025/07/08/us-news/donald-trump-swats-aside-jeffrey-epstein-question-at-cabinet-meeting/). *New York Post*.
 
-Wikipedia contributors. (n.d.). *[Les Wexner](https://en.wikipedia.org/wiki/Les_Wexner).* In *Wikipedia: The Free Encyclopedia.* Retrieved July 15 2025.
+* Ciment, S. (2019, July 25). [Victoria’s Secret billionaire Les Wexner handed Jeffrey Epstein power of attorney in 1991, giving him sweeping control over his financial affairs](https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7). *Business Insider*.
 
-Balsamo, M. (2020, November 12). *[‘Poor judgment’ used in Epstein plea deal, Justice Dept. finds](https://apnews.com/article/jeffrey-epstein-florida-e2a4431f7319afd037023d9a586aa291).* *Associated Press.*
+* Cooke, K. (2019, August 28). [FBI studies two broken cameras outside cell where Epstein died – source](https://www.reuters.com/article/world/us-epstein-cameras/fbi-studies-two-broken-cameras-outside-cell-where-epstein-died-source-idUSKCN1VI2M3/). *Reuters*.
 
-U.S. Department of Justice. (2020, November 12). *[Statement on DOJ Office of Professional Responsibility report on the Jeffrey Epstein 2006–2008 investigation](https://www.justice.gov/archives/opa/press-release/file/1336416/dl?inline=)* \[PDF]. Office of Public Affairs.
+* Evans, M. (2003, February 25). [FO suspected Maxwell was a Russian agent, papers reveal](https://www.telegraph.co.uk/news/uknews/1445707/FO-suspected-Maxwell-was-a-Russian-agent-papers-reveal.html). *The Daily Telegraph*.
 
-Brown, S. (2020, April 14). *[Appeals court upholds Jeffrey Epstein’s non‑prosecution deal](https://www.reuters.com/article/world/us/appeals-court-upholds-jeffrey-epsteins-non-prosecution-deal-idUSKCN21W2G8).* *Reuters.*
+* Farmer, M. (2020, November 30). [Jeffrey Epstein accuser Maria Farmer says alleged sex trafficker’s house had cameras ‘monitoring private moments’](https://www.cbsnews.com/news/jeffrey-epstein-accuser-maria-farmer-says-his-house-under-constant-tv-surveillance/). *CBS News*.
 
-Holpuch, A. (2019, August 10). *[Jeffrey Epstein dies in apparent suicide in New York jail](https://www.theguardian.com/us-news/2019/aug/10/jeffrey-epstein-dead-prison-report-latest).* *The Guardian.*
+* Fisher, M. (2019, August 10). [Final evasion: For 30 years, prosecutors and victims tried to hold Jeffrey Epstein to account. At every turn, he slipped away](https://www.washingtonpost.com/politics/final-evasion-for-30-years-prosecutors-and-victims-tried-to-hold-jeffrey-epstein-to-account-at-every-turn-he-slipped-away/2019/08/10/30bc947a-bb8a-11e9-a091-6a96e67d9cce_story.html). *The Washington Post*.
 
-U.S. Department of Justice Office of the Inspector General. (2023, June 27). *[Investigation and review of the Federal Bureau of Prisons’ custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)* \[Report 23‑085].
+* Glenza, J. (2024, January 3). [Documents linking Epstein associates to sex offender unsealed](https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-list-names-released). *The Guardian*.
 
-Sisak, M. R. (2023, April 6). *[New details of Jeffrey Epstein’s death and the frantic aftermath revealed in records obtained by AP](https://www.apnews.com/article/jeffrey-epstein-jail-suicide-prison-death-8d194a756f2b429067f009a0c70f96c0).* *Associated Press.*
+* Gore, D. (2019, August 15). [The Epstein connections fueling conspiracy theories](https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/). *FactCheck.org*.
 
-Farmer, M. (2020, November 30). *[Jeffrey Epstein accuser Maria Farmer says alleged sex trafficker’s house had cameras ‘monitoring private moments’](https://www.cbsnews.com/news/jeffrey-epstein-accuser-maria-farmer-says-his-house-under-constant-tv-surveillance/).* *CBS News.*
+* Gore, D. (2019, August 16). [Unproven claim of ‘camera malfunction’ before Epstein’s death](https://www.factcheck.org/2019/08/unproven-claim-of-camera-malfunction-before-epsteins-death/). *FactCheck.org*.
 
-Wikipedia contributors. (n.d.). *[Jeffrey Epstein – Video recordings](https://en.wikipedia.org/wiki/Jeffrey_Epstein#Video_recordings).* In *Wikipedia: The Free Encyclopedia.* Retrieved July 15 2025.
+* Gertz, B. (2023, June 7). [Inside the Ring: Former NSA counterspy on Jeffrey Epstein intelligence rumors](https://www.washingtontimes.com/news/2023/jun/7/inside-ring-former-nsa-counterspy-jeffrey-epstein-/). *The Washington Times*.
 
-Wintour, P. (2025, July 7). *[Virginia Giuffre diary claims Epstein hid cameras for blackmail](https://www.theguardian.com/us-news/2025/jul/07/virginia-giuffre-diary-epstein-hidden-cameras-blackmail).* *The Guardian.*
+* Giuffre diary contradicts FBI blackmail claims. (2025, July 7). [Epstein client list row](https://www.thetimes.com/us/news-today/article/epstein-client-list-virginia-giuffre-fbi-cnxnlfkpm). *The Times*.
 
-Kirchgaessner, S. (2025, July 14). *[How the Jeffrey Epstein row plunged MAGA world into turmoil – a timeline](https://www.theguardian.com/us-news/2025/jul/14/jeffrey-epstein-trump-maga-turmoil).* *The Guardian.*
+* Hoffman, G. (2020, August 10). [For writer who broke Epstein case, a rumored Mossad link is worth digging into](https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/). *The Times of Israel*.
 
-Schneid, R. (2025, July 12). *[A timeline of Donald Trump and Jeffrey Epstein’s relationship as it draws renewed attention](https://time.com/7302268/donald-trump-jeffrey-epstein-timeline-relationship-2/).* *TIME.*
+* Holpuch, A. (2019, August 10). [Jeffrey Epstein dies in apparent suicide in New York jail](https://www.theguardian.com/us-news/2019/aug/10/jeffrey-epstein-dead-prison-report-latest). *The Guardian*.
 
-Gore, D. (2019, August 15). *[The Epstein connections fueling conspiracy theories](https://www.factcheck.org/2019/08/the-epstein-connections-fueling-conspiracy-theories/).* *FactCheck.org.*
+* Jerusalem Post Staff. (2025, July 10). [Tucker Carlson says Jeffrey Epstein worked for Israel’s Mossad](https://www.jpost.com/international/article-860762). *The Jerusalem Post*.
 
-Glenza, J. (2024, January 3). *[Documents linking Epstein associates to sex offender unsealed](https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-list-names-released).* *The Guardian.*
+* Kahan, M. (2001). [The evidentiary theory of blackmail: Taking motives seriously](https://scholarship.law.upenn.edu/context/faculty_scholarship/article/2487/viewcontent/The_Evidentiary_Theory_of_Blackmail_Taking_Motives_Seriously.pdf). *University of Pennsylvania Law Review, 149*(4), 1707–1745.
 
-Bui, L., et al. (2019, August 10). *[The layers of Jeffrey Epstein’s connections](https://www.washingtonpost.com/graphics/2019/national/epstein-connections/).* *The Washington Post.*
+* Kalin, I. (2023, October 18). [Is Israel a ‘spoiled child’ or blackmailer of the US?](https://www.dailysabah.com/opinion/columns/is-israel-spoiled-child-or-blackmailer-of-us). *Daily Sabah*.
 
-Wikipedia contributors. (2025, April 20). *[Prince Andrew & the Epstein scandal](https://en.wikipedia.org/wiki/Prince_Andrew_%26_the_Epstein_Scandal).* In *Wikipedia: The Free Encyclopedia.*
+* Kennard, M. (2024, January 4). [Tweet: “Worth noting how often Epstein’s intel ties get waved away …”](https://x.com/kennardmatt/status/1742943360304771513). *X (formerly Twitter)*.
 
-Hoffman, G. (2020, August 10). *[For writer who broke Epstein case, a rumored Mossad link is worth digging into](https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/).* *The Times of Israel.*
+* Kim, R. (2023, June 9). [Acosta dodges when asked if Epstein was an ‘intelligence asset’](https://www.washingtonexaminer.com/news/746404/acosta-dodges-when-asked-if-epstein-was-an-intelligence-asset). *Washington Examiner*.
 
-Wikipedia contributors. (2025, June 1). *[Robert Maxwell](https://en.wikipedia.org/wiki/Robert_Maxwell).* In *Wikipedia: The Free Encyclopedia.*
+* Kirchgaessner, S. (2025, July 14). [How the Jeffrey Epstein row plunged MAGA world into turmoil – a timeline](https://www.theguardian.com/us-news/2025/jul/14/jeffrey-epstein-trump-maga-turmoil). *The Guardian*.
 
-Evans, M. (2003, February 25). *[FO suspected Maxwell was a Russian agent, papers reveal](https://www.telegraph.co.uk/news/uknews/1445707/FO-suspected-Maxwell-was-a-Russian-agent-papers-reveal.html).* *The Daily Telegraph.*
+* Kirchick, J. (2024, December 4). [Why Jeffrey Epstein is causing a meltdown on the right](https://www.vox.com/politics/419264/jeffrey-epstein-trump-bondi-patel-client-list). *Vox*.
 
-Campbell, G. (2025, July 8). *[Donald Trump swats aside Jeffrey Epstein question at cabinet meeting](https://nypost.com/2025/07/08/us-news/donald-trump-swats-aside-jeffrey-epstein-question-at-cabinet-meeting/).* *New York Post.*
+* Lutz, E. (2019, October 30). [Pathologist hired by Epstein’s brother says injuries “point to homicide”](https://www.vanityfair.com/news/2019/10/pathologist-hired-by-jeffrey-epstein-brother-says-injuries-point-to-homicide). *Vanity Fair*.
 
-Kennard, M. (2024, January 4). *[Tweet: “Worth noting how often Epstein’s intel ties get waved away …”](https://x.com/kennardmatt/status/1742943360304771513).* X (formerly Twitter).
+* Martínez-Puig, A. (2024, January 14). [GOP senator theorizes Epstein was federal asset after FBI declares no client list](https://www.latintimes.com/gop-senator-theorizes-that-epstein-was-federal-asset-after-fbi-declares-no-client-list-dots-586506). *Latin Times*.
 
-WhoWhatWhy. (2021, December 6). *[Jeffrey Epstein ‘belonged to intelligence’?](https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/).* *WhoWhatWhy.*
+* Moreno, J. (2024, January 4). [The Epstein story may not be a fantastical conspiracy— but it’s still all too common](https://www.businessinsider.com/jeffrey-epstein-story-may-not-be-conspiracy-but-its-still-disgusting-and-all-too-common-2024-1). *Business Insider*.
 
-Lutz, E. (2019, October 30). *[Pathologist hired by Epstein’s brother says injuries “point to homicide”](https://www.vanityfair.com/news/2019/10/pathologist-hired-by-jeffrey-epstein-brother-says-injuries-point-to-homicide).* *Vanity Fair.*
+* Neal, W. (2024, December 2). [Megyn Kelly suggests Trump ‘blessed’ Epstein cover-up](https://www.dailybeast.com/megyn-kelly-suggests-trump-blessed-epstein-cover-up). *The Daily Beast*.
 
-Allassan, F. (2019, October 30). *[Pathologist claims Jeffrey Epstein autopsy more consistent with homicide than suicide](https://www.axios.com/2019/10/30/jeffrey-epstein-suicide-homicide-claim).* *Axios.*
+* Pascus, B., & Lenghi, M. (2019, August 13). [Jeffrey Epstein worked at financial firm that engaged in massive Ponzi scheme in 1980s and 1990s](https://www.cbsnews.com/news/jeffrey-epstein-worked-at-towers-financial-with-stephen-hoffenberg-who-committed-ponzi-scheme-crimes/). *CBS News*.
 
-Wikipedia contributors. (2025, June 30). *[Death of Jeffrey Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein).* In *Wikipedia: The Free Encyclopedia.*
+* Pierson, L. (2024, January 15). [Jeffrey Epstein intelligence-asset claims resurface after Eric Weinstein interview](https://www.newsweek.com/jeffrey-epstein-intelligence-asset-eric-weinstein-stephen-bartlett-diary-ceo-2099041). *Newsweek*.
 
-Cooke, K. (2019, August 28). *[FBI studies two broken cameras outside cell where Epstein died – source](https://www.reuters.com/article/world/us-epstein-cameras/fbi-studies-two-broken-cameras-outside-cell-where-epstein-died-source-idUSKCN1VI2M3).* *Reuters.*
+* Riccardi, N. (2025, March 28). [MAGA faithful are angry about the Epstein case. Here’s what to know](https://apnews.com/article/904822e788fa02fd6bd5c8181d0c9c08). *Associated Press*.
 
-Gore, D. (2019, August 16). *[Unproven claim of ‘camera malfunction’ before Epstein’s death](https://www.factcheck.org/2019/08/unproven-claim-of-camera-malfunction-before-epsteins-death/).* *FactCheck.org.*
+* Rosenberg, A. (2025, July 8). [Tucker Carlson torched by ex-Israeli PM over Epstein-Mossad theory](https://www.thedailybeast.com/tucker-carlson-torched-by-ex-israeli-pm-over-epstein-mossad-theory). *The Daily Beast*.
 
-Times of Israel Staff. (2024, January 3). *[Ex‑PM Naftali Bennett says claims Jeffrey Epstein worked for Mossad ‘totally false’](https://www.timesofisrael.com/ex-pm-naftali-bennett-says-claims-jeffrey-epstein-worked-for-mossad-totally-false).* *The Times of Israel.*
+* Schneid, R. (2025, July 12). [A timeline of Donald Trump and Jeffrey Epstein’s relationship as it draws renewed attention](https://time.com/7302268/donald-trump-jeffrey-epstein-timeline-relationship-2/). *TIME*.
 
-Burga, S. (2025, June 30). *[Former Israeli leader rejects allegations Jeffrey Epstein worked for Mossad: ‘A vicious wave of slander’](https://time.com/7302177/epstein-mossad-israel-intelligence-naftali-bennett/).* *TIME.*
+* Sisak, M. R. (2023, April 6). [New details of Jeffrey Epstein’s death and the frantic aftermath revealed in records obtained by AP](https://apnews.com/article/jeffrey-epstein-jail-suicide-prison-death-8d194a756f2b429067f009a0c70f96c0). *Associated Press*.
 
-Rosenberg, A. (2025, July 8). *[Tucker Carlson torched by ex‑Israeli PM over Epstein‑Mossad theory](https://www.thedailybeast.com/tucker-carlson-torched-by-ex-israeli-pm-over-epstein-mossad-theory).* *The Daily Beast.*
+* SoBrief Editors. (2025). [One Nation Under Blackmail – summary and key ideas](https://sobrief.com/books/one-nation-under-blackmail). *SoBrief*.
 
-Giuffre diary contradicts FBI blackmail claims. (2025, July 7). *[Epstein client list row](https://www.thetimes.com/us/news-today/article/epstein-client-list-virginia-giuffre-fbi-cnxnlfkpm).* *The Times.*
+* Sommerfeldt, C. (2024, December 5). [Epstein lawyer trashes ‘crazy’ Tucker Carlson theories swirling in MAGA civil war](https://www.dailybeast.com/epstein-lawyer-trashes-crazy-tucker-carlson-theories-swirling-in-maga-civil-war). *The Daily Beast*.
 
-—. (2025, July 7). *[Jeffrey Epstein belonged to intelligence](https://www.thetimes.com/politics/government-integrity/2025/7/7/jeffrey-epstein-belonged-to-intelligence).* *The Times.*
+* Stack, L., & Benner, K. (2019, July 26). [Jeffrey Epstein and Les Wexner: How they connected, and what went wrong](https://www.nytimes.com/2019/07/26/nyregion/jeffrey-epstein-les-wexner.html). *The New York Times*.
 
-Weiss, L. (2025, July 8). *[Will we never know the truth about Jeffrey Epstein?](https://nypost.com/2025/07/08/us-news/will-we-never-know-the-truth-about-jeffrey-epstein/).* *New York Post.*
+* Times of India Staff. (2025, March 5). [Who is Saagar Enjeti? Tucker Carlson’s guest who claims the CIA is involved in, and covering up, Epstein files](https://timesofindia.indiatimes.com/world/us/who-is-saagar-enjeti-tucker-carlsons-guest-who-claims-the-cia-is-involved-in-and-covering-up-epstein-files/articleshow/122337357.cms). *The Times of India*.
 
-Pierson, L. (2024, January 15). *[Jeffrey Epstein intelligence‑asset claims resurface after Eric Weinstein interview](https://www.newsweek.com/jeffrey-epstein-intelligence-asset-eric-weinstein-stephen-bartlett-diary-ceo-2099041).* *Newsweek.*
+* Times of India Staff. (2025, March 7). [Epstein list update: Tucker Carlson says Jeffrey was working for Israel; everyone believes he was a Mossad agent](https://timesofindia.indiatimes.com/world/us/epstein-list-update-tucker-carlson-says-jeffrey-was-working-for-israel-everyone-believes-he-was-a-mossad-agent/articleshow/122406596.cms). *The Times of India*.
 
-Martínez‑Puig, A. (2024, January 14). *[GOP senator theorizes Epstein was federal asset after FBI declares no client list](https://www.latintimes.com/gop-senator-theorizes-that-epstein-was-federal-asset-after-fbi-declares-no-client-list-dots-586506).* *Latin Times.*
+* Times of Israel Staff. (2024, January 3). [Ex‑PM Naftali Bennett says claims Jeffrey Epstein worked for Mossad ‘totally false’](https://www.timesofisrael.com/ex-pm-naftali-bennett-says-claims-jeffrey-epstein-worked-for-mossad-totally-false). *The Times of Israel*.
 
-Times of Israel Staff. (2024, January 9). *[Tucker Carlson suggests Jeffrey Epstein was working for Israel’s Mossad spy agency](https://www.timesofisrael.com/tucker-carlson-suggests-jeffrey-epstein-was-working-for-israels-mossad-spy-agency/).* *The Times of Israel.*
+* Times of Israel Staff. (2024, January 9). [Tucker Carlson suggests Jeffrey Epstein was working for Israel’s Mossad spy agency](https://www.timesofisrael.com/tucker-carlson-suggests-jeffrey-epstein-was-working-for-israels-mossad-spy-agency/). *The Times of Israel*.
 
-TRT World. (2023, October 12). *[Disgraced pedophile Jeffrey Epstein, the spy theory and Israel angle](https://trt.global/world/article/16616743).* *TRT Global.*
+* TRT World. (2023, October 12). [Disgraced pedophile Jeffrey Epstein, the spy theory and Israel angle](https://trt.global/world/article/16616743). *TRT Global*.
 
-Times of India Staff. (2025, March 5). *[Who is Saagar Enjeti? Tucker Carlson’s guest who claims the CIA is involved in, and covering up, Epstein files](https://timesofindia.indiatimes.com/world/us/who-is-saagar-enjeti-tucker-carlsons-guest-who-claims-the-cia-is-involved-in-and-covering-up-epstein-files/articleshow/122337357.cms).* *The Times of India.*
+* U.S. Department of Justice. (2020, November 12). [Statement on DOJ Office of Professional Responsibility report on the Jeffrey Epstein 2006–2008 investigation](https://www.justice.gov/archives/opa/press-release/file/1336416/dl?inline=) \[PDF]. Office of Public Affairs.
 
-Kim, R. (2023, June 9). *[Acosta dodges when asked if Epstein was an ‘intelligence asset’](https://www.washingtonexaminer.com/news/746404/acosta-dodges-when-asked-if-epstein-was-an-intelligence-asset).* *Washington Examiner.*
+* U.S. Department of Justice Office of the Inspector General. (2023, June 27). [Investigation and review of the Federal Bureau of Prisons’ custody, care, and supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York](https://oig.justice.gov/sites/default/files/reports/23-085.pdf) \[Report 23-085].
 
-Gertz, B. (2023, June 7). *[Inside the Ring: Former NSA counterspy on Jeffrey Epstein intelligence rumors](https://www.washingtontimes.com/news/2023/jun/7/inside-ring-former-nsa-counterspy-jeffrey-epstein-/).* *The Washington Times.*
+* U.S. Securities and Exchange Commission. (n.d.). [Jeffrey Epstein deposition and exhibits](https://www.sec.gov/files/epstein-deposition-and-exhibits.pdf). U.S. Securities and Exchange Commission.
 
-Bennett denial features in NY Post. (2025, July 14). *[Former Israeli PM Naftali Bennett denies conspiracy linking Epstein to Mossad](https://nypost.com/2025/07/14/world-news/former-israeli-pm-naftali-bennett-denies-conspiracy-linking-epstein-to-mossad/).* *New York Post.*
+* Ward, V. (2003, March 1). [The Talented Mr. Epstein](https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303). *Vanity Fair*.
 
-Kahan, M. (2001). *[The evidentiary theory of blackmail: Taking motives seriously](https://scholarship.law.upenn.edu/context/faculty_scholarship/article/2487/viewcontent/The_Evidentiary_Theory_of_Blackmail_Taking_Motives_Seriously.pdf).* *University of Pennsylvania Law Review, 149*(4), 1707–1745.
+* Weiss, L. (2025, July 8). [Will we never know the truth about Jeffrey Epstein?](https://nypost.com/2025/07/08/us-news/will-we-never-know-the-truth-about-jeffrey-epstein/). *New York Post*.
 
-SoBrief Editors. (2025). *[One Nation Under Blackmail – summary and key ideas](https://sobrief.com/books/one-nation-under-blackmail).* *SoBrief.*
+* Webb, W. A. (2022). [One Nation Under Blackmail (Vols. 1–2)](https://archive.org/stream/one-nation-under-blackmail-vol-1-2-whitney-alyse-webb_202401/One%20Nation%20Under%20Blackmail--Vol%201%262%20-%20Whitney%20Alyse%20Webb_djvu.txt). TrineDay.
 
-Webb, W. A. (2022). *[One Nation Under Blackmail (Vols. 1–2)](https://archive.org/stream/one-nation-under-blackmail-vol-1-2-whitney-alyse-webb_202401/One%20Nation%20Under%20Blackmail--Vol%201%262%20-%20Whitney%20Alyse%20Webb_djvu.txt).* TrineDay.
+* WhoWhatWhy. (2021, December 6). [Jeffrey Epstein ‘belonged to intelligence’?](https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/). *WhoWhatWhy*.
 
-Moreno, J. (2024, January 4). *[The Epstein story may not be a fantastical conspiracy— but it’s still all too common](https://www.businessinsider.com/jeffrey-epstein-story-may-not-be-conspiracy-but-its-still-disgusting-and-all-too-common-2024-1).* *Business Insider.*
+* Wintour, P. (2025, July 7). [Virginia Giuffre diary claims Epstein hid cameras for blackmail](https://www.theguardian.com/us-news/2025/jul/07/virginia-giuffre-diary-epstein-hidden-cameras-blackmail). *The Guardian*.
 
-Neal, W. (2024, December 2). *[Megyn Kelly suggests Trump ‘blessed’ Epstein cover‑up](https://www.dailybeast.com/megyn-kelly-suggests-trump-blessed-epstein-cover-up).* *The Daily Beast.*
-
-Kirchick, J. (2024, December 4). *[Why Jeffrey Epstein is causing a meltdown on the right](https://www.vox.com/politics/419264/jeffrey-epstein-trump-bondi-patel-client-list).* *Vox.*
-
-Riccardi, N. (2025, March 28). *[MAGA faithful are angry about the Epstein case. Here’s what to know](https://apnews.com/article/904822e788fa02fd6bd5c8181d0c9c08).* *Associated Press.*
-
-Burga, S. (2024, January 9). *[Newsweek explainer: Epstein, Mossad and Naftali Bennett](https://www.newsweek.com/jeffrey-epstein-mossad-israel-bennett-tucker-carlson-2098630).* *Newsweek.*
-
-Times of India Staff. (2025, March 7). *[Epstein list update: Tucker Carlson says Jeffrey was working for Israel; everyone believes he was a Mossad agent](https://timesofindia.indiatimes.com/world/us/epstein-list-update-tucker-carlson-says-jeffrey-was-working-for-israel-everyone-believes-he-was-a-mossad-agent/articleshow/122406596.cms).* *The Times of India.*
-
-Sommerfeldt, C. (2024, December 5). *[Epstein lawyer trashes ‘crazy’ Tucker Carlson theories swirling in MAGA civil war](https://www.dailybeast.com/epstein-lawyer-trashes-crazy-tucker-carlson-theories-swirling-in-maga-civil-war).* *The Daily Beast.*
-
-Jerusalem Post Staff. (2025, July 10). *[Tucker Carlson says Jeffrey Epstein worked for Israel’s Mossad](https://www.jpost.com/international/article-860762).* *The Jerusalem Post.*
-
-Kalin, I. (2023, October 18). *[Is Israel a ‘spoiled child’ or blackmailer of the US?](https://www.dailysabah.com/opinion/columns/is-israel-spoiled-child-or-blackmailer-of-us).* *Daily Sabah.*
 
