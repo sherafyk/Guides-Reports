@@ -111,20 +111,15 @@ QUESTIONS: [What you still need to find out]
 ```
 
 **Example:**
-```
-WHAT: Peaceful protest at City Hall
-WHERE: 123 Main St, front steps
-WHEN: March 5, 2024, 2:30 PM
-WHO: Approximately 200 residents, organized by Local
-Housing Coalition
-WHAT HAPPENED: Crowd gathered at 2:30, speakers began
-at 2:45, police arrived at 3:15 but did not intervene,
-protest ended peacefully at 4:00
-VERIFIED: I personally saw and photographed the crowd size,
-speakers, and police presence
-QUESTIONS: What specific policy changes are protesters
-demanding? City's official response?"
-```
+
+WHAT: Peaceful protest at City Hall  
+WHERE: 123 Main St, front steps  
+WHEN: March 5, 2024, 2:30 PM  
+WHO: Approximately 200 residents, organized by Local Housing Coalition  
+WHAT HAPPENED: Crowd gathered at 2:30, speakers began at 2:45, police arrived at 3:15 but did not intervene, protest ended peacefully at 4:00  
+VERIFIED: I personally saw and photographed the crowd size, speakers, and police presence  
+QUESTIONS: What specific policy changes are protesters demanding? City's official response?  
+
 
 ### **The Difference Between Witnessing and Reporting**
 
