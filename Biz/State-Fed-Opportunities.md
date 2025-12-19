@@ -3,7 +3,7 @@ Underutilized Low-Effort Funding Opportunities in California (2025)
 
 **Overview:** This report identifies *legitimate, low-risk, and underutilized ways to receive money or financial value* from government, quasi-governmental, nonprofit, utility, and regulated programs. It is tailored for a California resident (Los Angeles County) who is a U.S. citizen and business owner (LLCs/S-Corps), seeking "easy money" -- i.e. high return on time/effort, without fraud, debt, or speculative schemes. The opportunities are grouped by category, each with key details: program authority, who qualifies, typical payout, effort required, ways to leverage specialized knowledge, how to access the benefit, why it's underutilized, and an official source citation. A strategic analysis follows, ranking the best low-effort/high-ROI plays, suggesting stackable strategies, outlining business models to facilitate these programs for others, and noting risks and compliance considerations.
 
-1. Direct Cash & Claimable Funds
+## 1. Direct Cash & Claimable Funds
 --------------------------------
 
 These are one-time or periodic *cash windfalls* that individuals or businesses can claim from existing pools of money. Often they arise from forgotten assets, legal settlements, or refunds. **Knowledge and awareness are key** -- billions of dollars lie unclaimed simply because people don't know to ask for them.
